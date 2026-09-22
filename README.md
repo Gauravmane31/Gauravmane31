@@ -105,6 +105,8 @@ A full-stack AI-powered coding assessment platform combining automated code eval
 
 🔗 **[View Project](https://github.com/Gauravmane31)**
 
+🔗 **[Live Demo](https://skill-lens-xi-murex.vercel.app/)**
+
 > Replace the link above with the exact Skill Lens repository URL if it is hosted under another repository name.
 
 ---
